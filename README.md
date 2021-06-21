@@ -1,1 +1,1 @@
-# hugo_repo
+# hugo_blog
