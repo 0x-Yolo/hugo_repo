@@ -97,32 +97,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>API Gateway</title>
-      <link>/tags/api-gateway/</link>
-      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
-      
-      <guid>/tags/api-gateway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>service Mesh</title>
-      <link>/tags/service-mesh/</link>
-      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
-      
-      <guid>/tags/service-mesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nginmesh</title>
-      <link>/tags/nginmesh/</link>
-      <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
-      
-      <guid>/tags/nginmesh/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
